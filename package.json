@@ -1,5 +1,5 @@
 {
-  "name": "karet.util",
+  "name": "karet.util-0.18.0",
   "version": "0.18.0",
   "description": "Utilities for working with Karet",
   "module": "dist/karet.util.es.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calmm-js/karet.util.git"
+    "url": "git+https://github.com/rikutiira/karet.util.git"
   },
   "keywords": [
     "react",
